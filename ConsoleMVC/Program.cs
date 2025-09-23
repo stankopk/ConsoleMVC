@@ -9,7 +9,9 @@ namespace ConsoleMVC
         {
             TipCalculatorController tipCalculatorController = 
                 new TipCalculatorController();
-            //ExampleComment
+            //Banica s gazirana voda
+
+
         }
     }
 }
