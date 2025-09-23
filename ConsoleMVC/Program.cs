@@ -10,6 +10,7 @@ namespace ConsoleMVC
             TipCalculatorController tipCalculatorController = 
                 new TipCalculatorController();
             //ExampleComment
+            //Please delete me!
         }
     }
 }
