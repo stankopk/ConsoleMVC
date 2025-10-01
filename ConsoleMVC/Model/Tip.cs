@@ -8,6 +8,7 @@ namespace ConsoleMVC.Model
 {
     class Tip
     {
+        private DateTime arrive;
         private double amount;
         private double percent;
         public double Amount
