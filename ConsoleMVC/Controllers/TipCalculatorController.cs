@@ -10,6 +10,7 @@ namespace ConsoleMVC.Controller
 
         public TipCalculatorController()
         {
+
             display = new Display();
             tip = new Tip(display.Amount, display.Percent);
             display.TipAmount = tip.CalculateTip();
