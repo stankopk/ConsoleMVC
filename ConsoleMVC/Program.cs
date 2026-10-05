@@ -7,12 +7,7 @@ namespace ConsoleMVC
     {
         static void Main(string[] args)
         {
-            TipCalculatorController tipCalculatorController = 
-                new TipCalculatorController();
-            //ExampleComment
-            //Please delete me!
-            //Branch 2
-            //Branch1
+            TransportController transportController = new TransportController();
         }
     }
 }
